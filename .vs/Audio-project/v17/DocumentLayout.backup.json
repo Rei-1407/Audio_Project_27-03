@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ghlhn\\source\\repos\\Audio-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7EA01D-44BC-49E6-A53F-74CB0F7FB0E7}|Audio-project\\Audio-project.vcxproj|C:\\Users\\ghlhn\\Downloads\\File_audio.WAV||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7EA01D-44BC-49E6-A53F-74CB0F7FB0E7}|Audio-project\\Audio-project.vcxproj|C:\\Users\\ghlhn\\source\\repos\\Audio-project\\Audio-project\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B7EA01D-44BC-49E6-A53F-74CB0F7FB0E7}|Audio-project\\Audio-project.vcxproj|solutionrelative:Audio-project\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "File_audio.WAV",
+              "DocumentMoniker": "C:\\Users\\ghlhn\\Downloads\\File_audio.WAV",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\File_audio.WAV",
+              "ToolTip": "C:\\Users\\ghlhn\\Downloads\\File_audio.WAV",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\File_audio.WAV",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAErSURBVDhPlZDNSgJRGIafMxUlaZBhJljowIyC29pIy6BdO6VVu6JL6Aa8gmgfRLRsJ95AiK1bqFSE/ViLIi0jh3DaOKEfM8P0bM7he9/znMNRer1SAI6AGP\u002BjfZvZTCi9XukAczLdjaa5\u002Bu5Q/XqT0Shtze0wwEHM5GR5jVI8R1iblLFDQpOTUbZbl2RnIpRTedZnF2QMgK\u002Bg0f\u002Bg2Kpx1nngOLnKfjQtK/4CgJCaIDkVwrIHvPz0Zewv2AgvUk7lyU5H2Lqrct59khVvwQCb0lKO0/d7iq0a19anrACg9HrFlkOAnfkVLnqv3Fg9GY2hDMNwFQRFA2g0m7itQfaef8CwlDHNsYMSX4EXjpggAr/bGQq6zjNHVwe5F/mzMgyjABwC8b9mMB6BvV9pkmeG4lqSCgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-23T18:23:02.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ghlhn\\source\\repos\\Audio-project\\Audio-project\\Source.cpp",
+              "RelativeDocumentMoniker": "Audio-project\\Source.cpp",
+              "ToolTip": "C:\\Users\\ghlhn\\source\\repos\\Audio-project\\Audio-project\\Source.cpp",
+              "RelativeToolTip": "Audio-project\\Source.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwEIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T18:20:54.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
